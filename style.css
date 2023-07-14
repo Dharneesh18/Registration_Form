@@ -1,0 +1,22 @@
+body
+{
+    background: bisque;
+    text-align: center;
+}
+h1
+{
+    background: rgb(217, 12, 12);
+    height: 50px;
+    text-align: center;
+    border-style: double;
+    border-width: 15px;
+    border-radius: 90px;
+}
+form
+{
+    background: rgb(217, 12, 12);
+    border-radius: 15px;
+    border-style: double;
+    border-width: 15px;
+    
+}
